@@ -16,3 +16,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inesmourato&show_icons=true&locale=en&layout=compact" alt="inesmourato" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inesmourato&" alt="inesmourato" /></p>
+
+[![inesmourato's GitHub | Stats](https://stats.quira.sh/inesmourato/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=inesmourato)

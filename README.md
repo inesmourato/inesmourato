@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **inesmourato798@gmail.com**
 
-- ⚡ Fun fact **My background is in Tourism Management**
+- ⚡ Fun fact **my background is in Tourism Management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

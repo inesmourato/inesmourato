@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inês</h1>
-<h3 align="center">A student at 42 Lisboa</h3>
+<h3 align="center">A student at AllWomen</h3>
 
 - 🤝 I’m looking for **a change in my career**
 
